@@ -39,7 +39,7 @@ Double-click on index.html to open the game in your default web browser.
 - Connected DSA concepts (matrix rotation, collision checking) with frontend logic.
 
 ## 📷 Demo
-
+![A short demo of the Tetris game in action](Tetris-game.gif.gif)
 
 ## 👤 Author
 - [Yashas TV](https://github.com/yashastv)
